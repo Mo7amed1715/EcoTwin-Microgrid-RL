@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Stable_Baselines3-EE4C2C.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Execution_Server-009688.svg)
-![Status](https://img.shields.io/badge/Status-MVP_Ready-success.svg)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange.svg)
 
 An end-to-end Reinforcement Learning architecture designed to autonomously manage a physical microgrid. This project bridges a custom physics simulation environment with a production-ready API for IoT hardware execution.
 
